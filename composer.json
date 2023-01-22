@@ -1,0 +1,15 @@
+{
+    "name": "futoshiendo/scrapbox_nikki_template",
+    "autoload": {
+        "psr-4": {
+            "Futoshiendo\\ScrapboxNikkiTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fendo181",
+            "email": "fendo181git@gmail.com"
+        }
+    ],
+    "require": {}
+}
