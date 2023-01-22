@@ -11,5 +11,7 @@
             "email": "fendo181git@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
 }
