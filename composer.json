@@ -13,5 +13,8 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.5"
+    },
+    "require-dev": {
+        "psy/psysh": "@stable"
     }
 }
